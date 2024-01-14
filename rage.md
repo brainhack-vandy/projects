@@ -10,8 +10,8 @@ Since their discovery, resting state networks have elucidated our understanding 
 
 ## GOALS FOR THE BRAINHACK VANDERBILT
 
-Goal 1: Determine if dual regression on matlab gives similar results of FSL dual regression. Level of difficulty 1-2
-Goal 2: Determine how resting state networks change across age. Level of difficulty 3
+1. Determine if dual regression on matlab gives similar results of FSL dual regression. Level of difficulty 1-2
+2. Determine how resting state networks change across age. Level of difficulty 3
 
 ### Link to the Project
 
@@ -24,10 +24,10 @@ https://drive.google.com/file/d/1trjIbabkOcKbeiThqMY2mBQcJP1TXy04/view?usp=shari
 ### Project lead
 
 Kimberly Rogge-Obando, Github: @krogge-obando
+<br>Terra Lee
 
 ### Contributors
 
-Terra Lee
 
 ### Main Hub
 
@@ -39,7 +39,7 @@ We welcome all contributions from various skill sets and levels. This can includ
 
 ### Recommended preparation for new contributors
 
-Download FSL and look into FSL melodic and dual_regression
+Download FSL and look into FSL's melodic and dual_regression functions
 https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation
 
 Download AFNI

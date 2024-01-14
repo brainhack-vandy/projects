@@ -8,6 +8,8 @@ Improving functionality in physioQA
 
 Functional magnetic resonance imaging (fMRI) is a powerful and widely used technique in human brain research, measuring blood-oxygen-level-dependent (BOLD) changes in the brain, as a PROXY for neural activity. Due to blood-oxygen dependency, two major influences on fMRI data are respiration and cardiac related processes which affect blood-oxygen levels in the brain. So to study and also to remove these effects people collect measures of respiration and heart rate concurrently with fMRI. Fantastic! But here is the catch, like any other data we need to quality-check! Let's face it, checking the quality of this data can be a real headache. It usually involves a time consuming tedious manual labor and is prone to human error - you need to know what is real data, what is an artifact. That's why we want to create a nifty deep-learning tool to automate quality assessment! This tool doesn't just check the quality of your data; it also points out any issues and gives you tips on how to fix them. It's like having a friendly expert on your team, making sure your research data is as good as it can be! 
 
+[Project Intro. Slides](https://docs.google.com/presentation/d/17mtvgRvHOgMBfqDNFqpqpmmtxAMxbJs3FDHAOWCHSDg)
+
 ## GOALS FOR THE BRAINHACK VANDERBILT
 
 However, achieving this goal is not a one-stop-shop. We have developed the basic structure for this project, including a manual and deep-learning-based tools and are considering various improvements (see github issues).
@@ -16,10 +18,9 @@ Contributors are encouraged to work on open issues, including good first issues 
 
 ### Link to the Project
 
-https://github.com/neurdylab/physio_QA_manual
-https://github.com/neurdylab/physio_QA_dl
-[Project Intro. Slides](https://docs.google.com/presentation/d/17mtvgRvHOgMBfqDNFqpqpmmtxAMxbJs3FDHAOWCHSDg)
-
+- https://github.com/neurdylab/physio_QA_manual
+- https://github.com/neurdylab/physio_QA_dl
+  
 ### Image for the BrainHack Vanderbilt website
 
 https://docs.google.com/presentation/d/17mtvgRvHOgMBfqDNFqpqpmmtxAMxbJs3FDHAOWCHSDg

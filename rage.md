@@ -15,13 +15,11 @@ Goal 2: Determine how resting state networks change across age. Level of difficu
 
 ### Link to the Project
 
-https://github.com/neurdylab/physio_QA_manual
-https://github.com/neurdylab/physio_QA_dl
-[Project Intro. Slides](https://docs.google.com/presentation/d/17mtvgRvHOgMBfqDNFqpqpmmtxAMxbJs3FDHAOWCHSDg)
+https://drive.google.com/drive/folders/1Gd0Ra4BYukWS39978vVewpwzNDBOE7km 
 
 ### Image for the BrainHack Vanderbilt website
 
-https://docs.google.com/presentation/d/17mtvgRvHOgMBfqDNFqpqpmmtxAMxbJs3FDHAOWCHSDg
+https://drive.google.com/file/d/1trjIbabkOcKbeiThqMY2mBQcJP1TXy04/view?usp=sharing 
 
 ### Project lead
 

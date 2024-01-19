@@ -24,13 +24,7 @@ Our goals include:
 
 ### Link to the Project
 
-https://github.com/neurdylab/physio_QA_manual
-https://github.com/neurdylab/physio_QA_dl
-[Project Intro. Slides](https://docs.google.com/presentation/d/17mtvgRvHOgMBfqDNFqpqpmmtxAMxbJs3FDHAOWCHSDg)
-
-### Image for the BrainHack Vanderbilt website
-
-https://docs.google.com/presentation/d/17mtvgRvHOgMBfqDNFqpqpmmtxAMxbJs3FDHAOWCHSDg
+https://github.com/hoffman-lab/BrainHacks24-NeuralManifolds
 
 ### Project lead
 

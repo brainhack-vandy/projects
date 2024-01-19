@@ -45,25 +45,12 @@ We welcome all contributions from various skill sets and levels. This can includ
 
 #### Programming
 
-- [ ] [A introduction to Bash](https://school-brainhack.github.io/modules/introduction_to_terminal/)
 - [X] [Set up a virtual environment](https://youtu.be/kz4gbWNO1cw?si=AmGvBex9deSUiOQ5)
-- [ ] [Python: Writing a script](https://school-brainhack.github.io/modules/python_scripts/)
-- [ ] [Python: Data analysis with Python](https://school-brainhack.github.io/modules/python_data_analysis/)
-- [ ] [Python: Visualization](https://school-brainhack.github.io/modules/python_visualization/)
 - [X] [Machine learning basics](https://school-brainhack.github.io/modules/machine_learning_basics/)
-
-#### Neuro
-
-- [ ] [Machine learning for neuroimaging](https://school-brainhack.github.io/modules/machine_learning_neuroimaging/)
 
 #### Reproducible and Open Science
 
-- [ ] [The Turing Way](https://the-turing-way.netlify.app)
 - [X] [VCS: Using Git and Github](https://school-brainhack.github.io/modules/git_github/)
-- [ ] [Containerization](https://school-brainhack.github.io/modules/containers/)
-
-### Good first issues
-
 
 #### Project issues
 
@@ -83,6 +70,6 @@ Get familiar with physioQA tools' functionality and help us improve it! https://
 
 physioQA
 
-### Please read and follow the OHBM Code of Conduct
+### Please read and follow the BrainHack Global Code of Conduct
 
-- [X] I agree to follow the [BrainHack Global Code of Conduct](https://brainhack.org/code-of-conduct) during the hackathon.
+- [X] The project leaders agreed to follow the [BrainHack Global Code of Conduct](https://brainhack.org/code-of-conduct) during the hackathon.

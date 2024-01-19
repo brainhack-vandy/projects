@@ -32,9 +32,9 @@ Richard Song: @richardwsong
 
 ### Contributors
 
-Ken Rahman: @RahmanKF22
-Sam Abbaspoor: @SAbbaspoor
-Kari Hoffman: @perpl_lab
+<br>Ken Rahman: @RahmanKF22
+<br>Sam Abbaspoor: @SAbbaspoor
+<br>Kari Hoffman: @perpl_lab
 
 ### Main Hub
 

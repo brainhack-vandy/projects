@@ -32,7 +32,7 @@ Richard Song: @richardwsong
 
 ### Contributors
 
-<br>Ken Rahman: @RahmanKF22
+Ken Rahman: @RahmanKF22
 <br>Sam Abbaspoor: @SAbbaspoor
 <br>Kari Hoffman: @perpl_lab
 
@@ -64,13 +64,10 @@ Vanderbilt
 - Explore characteristics that may be leading to representational drift. How is firing rate of the cells changing across trials and over time? What about accuracy, time to perform the task, or reward received?
 - Structural Index for Neural Manifolds
 
-### Twitter summary
-
-
 ### Short name for the Discord chat channel (~15 chars)
 
 manifold_tuning
 
 ### Please read and follow the BrainHack Code of Conduct
 
-- [X] I agree to follow the [BrainHack Global Code of Conduct](https://brainhack.org/code-of-conduct) during the hackathon.
+- [X] The authors agreed to follow the [BrainHack Global Code of Conduct](https://brainhack.org/code-of-conduct) during the hackathon.

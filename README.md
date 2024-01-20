@@ -15,7 +15,7 @@ Below is a brief overview of each proposed projects with links to their detailed
 - **Details**: Detailed insights can be found in [Neural Spiking Ensembles: Dynamics of Representational Geometry](manifold_tuning.md).
 
 ### Physiological Data Quality Assurance (PhysioQA)
-- **Description**: A project dedicated to ensuring the quality of physiological data in research.
+- **Description**: A project dedicated to ensuring the quality of physiological data that in fMRI research.
 - **Details**: Read more about it in [PhysioQA Documentation](physioQA.md).
 
 ### Resting-State Networks Across Age

@@ -1,6 +1,6 @@
 ### Title
 
-Neural Spiking Ensembles: Dynamics of Representational Geometry
+Neural Manifolds: Representational Geometries of Dynamic Spiking Ensembles
 
 ### Short description and the goals for the BrainHack Vanderbilt
 
@@ -66,7 +66,7 @@ Vanderbilt
 
 ### Short name for the Discord chat channel (~15 chars)
 
-manifold_tuning
+neural_manifolds
 
 ### Please read and follow the BrainHack Code of Conduct
 

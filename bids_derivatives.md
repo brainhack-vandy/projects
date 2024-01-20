@@ -16,7 +16,7 @@ Open discussion on how to BIDSify physiological data derivatives (i.e. preproces
 
 ### Link to the Project
 
-- https://github.com/orgs/physiopy
+https://github.com/orgs/physiopy
   
 ### Image for the BrainHack Vanderbilt website
 
@@ -24,7 +24,7 @@ Open discussion on how to BIDSify physiological data derivatives (i.e. preproces
 ### Project lead
 
 Marie-Eve Picard, Github: @me-pic,
-Discord Username: me_pic (Marie-Eve Picard (she/her))
+<br>Discord Username: me_pic (Marie-Eve Picard (she/her))
 
 ### Contributors
 
@@ -32,11 +32,11 @@ Mary Miedema, Github: @m-miedema
 
 ### Skills
 
-Physiological data (cardiac, respiratory, skin conductance etc.): all levels
-BIDS standards: intermediate/advanced
-Data management: all levels
-github: all levels
-python: intermediate/advanced
+- Physiological data (cardiac, respiratory, skin conductance etc.): all levels
+- BIDS standards: intermediate/advanced
+- Data management: all levels
+- GitHub: all levels
+- python: intermediate/advanced
 
 ### Recommended tutorials for new contributors
 

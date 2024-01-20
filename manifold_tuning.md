@@ -58,11 +58,11 @@ Vanderbilt
 
 ### Good first issues
 
-- Experiment on neural manifold creation with using different hyperparameters (e.g. n_neighbors or min_dist in UMAP). Different parameters can greatly change the shape of the manifold and thus can affect the ability to decode different behaviors. Afterwards, consider creating UI to visualize neural manifolds across different hyperparameters. Here is a great example.
+- Experiment on neural manifold creation with using different hyperparameters (e.g. n_neighbors or min_dist in UMAP). Different parameters can greatly change the shape of the manifold and thus can affect the ability to decode different behaviors. Afterwards, consider creating UI to visualize neural manifolds across different hyperparameters. [Here](https://pair-code.github.io/understanding-umap/) is a great example.
 - Parallelize dimensionality reduction across a set of hyperparameters
-- Experiment with which behavioral parameters are most separated in low dimensional space (block type, trial number, time, head position, angular velocity, etc.)
-- Explore characteristics that may be leading to representational drift. How is firing rate of the cells changing across trials and over time? What about accuracy, time to perform the task, or reward received?
-- Structural Index for Neural Manifolds
+- Experiment with which behavioral parameters are most separated in low dimensional space (block type, trial number, time, head position, angular velocity, etc.). Feel free to use the dimensionality reduction methods that are referred to in this notebook, or any other ones that you may be familiar with (e.g. MDS, CEBRA, etc). 
+- See if you can analyze the [structural index](https://github.com/PridaLab/structure_index) within our data. Briefly, this is a method to quantify representational structure in a neural manifold. 
+- We are also interested in a new, supervised dimensionality reduction algorithm called [CEBRA](https://cebra.ai/docs/index.html). CEBRA uses neural networks to create a latent space representation of neural data, minimizing the distance between neural activity points that share similar behavioral labels. We're interested to see if CEBRA is able to create neural manifolds with underlying task-dependent structure even if the behavioral labels are scrambled. For example, if you scramble timepoints across the data, is there still continuous drift? You can try comparing structural index of a CEBRA generated manifold with and without timepoint scrambling. 
 
 ### Short name for the Discord chat channel (~15 chars)
 

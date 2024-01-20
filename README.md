@@ -10,8 +10,8 @@ Below is a brief overview of each proposed projects with links to their detailed
 - **Description**: Developing a preprocessing pipeline for concurrently collected functional Magnetic Resonance Imaging (fMRI) and Electroencephalography (EEG) data.
 - **Details**: Learn more in [fMRI-EEG Preprocessing](fmri-eeg-preproc.md).
 
-### Manifold Tuning
-- **Description**: Exploring advanced techniques in tuning manifold learning algorithms.
+### Neural Manifolds
+- **Description**: Exploring neural manifold learning algorithms to analyze spiking ensembles in macaques performing learning tasks. 
 - **Details**: Detailed insights can be found in [Neural Spiking Ensembles: Dynamics of Representational Geometry](manifold_tuning.md).
 
 ### Physiological Data Quality Assurance (PhysioQA)

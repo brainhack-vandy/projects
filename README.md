@@ -16,11 +16,12 @@ Brief description of what your project does and its main features.
 - [License](#license)
 
 ## Onborading Documentation
+Tip: Grab this from your existing project issue!!
 
-MRI Basics: https://radiopaedia.org/articles/MRI
-Awesome visualization: https://github.com/alpers/awesome-data-visualization
-Get a hugging face account https://huggingface.co/
-Downloading a model from hugging face: https://huggingface.co/docs/hub/models-downloading
+- MRI Basics: https://radiopaedia.org/articles/MRI
+- Awesome visualization: https://github.com/alpers/awesome-data-visualization
+- Get a hugging face account https://huggingface.co/
+- Downloading a model from hugging face: https://huggingface.co/docs/hub/models-downloading
 
 ## Prerequisites
 

@@ -10,7 +10,6 @@ Brief description of what your project does and its main features.
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Data Access](#data-access)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
